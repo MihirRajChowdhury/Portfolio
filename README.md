@@ -1,4 +1,7 @@
-🚀 Mihir’s Portfolio Website
+# 🚀 Mihir’s Portfolio Website
+
+<img width="1899" height="806" alt="Screenshot 2025-08-21 184527" src="https://github.com/user-attachments/assets/eff9a3ac-12ba-4abd-8c91-f4be23d9de26" />
+
 
 Welcome to the repository for my personal portfolio website! 🎉
 This project is a culmination of creativity, technology, and my dedication to showcasing my skills, projects, and personality in a visually stunning and interactive manner.
