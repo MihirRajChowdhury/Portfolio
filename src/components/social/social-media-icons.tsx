@@ -24,11 +24,6 @@ const BUTTONS = [
     href: config.social.twitter,
     icon: <SiTwitter size={"24"} color={"#fff"} />,
   },
-  {
-    name: "Instagram",
-    href: config.social.instagram,
-    icon: <SiInstagram size={"24"} color={"#fff"} />,
-  },
 ];
 
 const SocialMediaButtons = () => {

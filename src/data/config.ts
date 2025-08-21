@@ -1,48 +1,41 @@
 const config = {
-  title: "Abhijit Zende | AI Enthusiast",
+  title: "Mihir Raj Chowdhury | Software Engineer",
   description: {
-    long: "Explore the portfolio of Abhijit, a Computer Science Engineer with 1.5 year experience in Devlopment, DevOps & Database management with hands-on experience in deploying & automating workflows, & collaborating with foreign clients. Strong analytical skills, effective communication, and a team-oriented approach to driving process improvements and delivering results.",
+    long: "Explore the portfolio of Mihir, a Software Engineer experienced in frontend development with React, building interactive dashboards, and contributing to open-source projects. Skilled in modern web technologies, with hands-on experience from internships and personal projects. Passionate about creating impactful user experiences, solving real-world problems with technology, and continuously learning in the fast-paced tech world.",
     short:
-      "Discover the portfolio of Abhijit, a AI enthusiast solving real life problems in DevOps and Development.",
+      "Discover the portfolio of Mihir, a Software Engineer passionate about frontend development and open-source contributions.",
   },
   keywords: [
-    "Abhijit",
-    "Abhijit Zende",
-    "abhijitzende",
-    "abhijitzende.com",
-    "Abhijit Zende portfolio",
+    "Mihir",
+    "Mihir Raj Chowdhury",
+    "mihirrajchowdhury",
+    "Mihir portfolio",
     "portfolio",
-    "DevOps",
-    "Devlopment",
-    "Database",
-    "AI Docker file optimizer",
-    "Finance me",
-    "creative technologist",
-    "web development",
-    "interactive websites",
-    // "GSAP",
-    // "React",
-    // "Next.js",
-    // "Spline",
-    // "Framer Motion",
-    "AWS",
-    "DevSecOps",
-    "AIOps",
-    "Azure",
+    "Frontend Development",
+    "React",
+    "Next.js",
+    "Open Source",
+    "HR Dashboard project",
+    "Interactive websites",
+    "Software Engineer",
+    "Web development",
+    "UI/UX",
+    "JavaScript",
+    "TypeScript",
+    "Langchain",
+    "Python"
   ],
-  author: "Abhijit Zende",
-  email: "abhijitzende75@gmail.com",
-  site: "https://abhijitzende.com",
+  author: "Mihir Raj Chowdhury",
+  email: "rajmihir945@gmail.com", // replace with your real email
+  site: "https://your-portfolio-link.com", // replace with your deployed portfolio link
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    twitter: "https://x.com/_Abhi_Speaks/",
-    linkedin: "https://www.linkedin.com/in/zende-abhijit/",
-    instagram: "https://www.instagram.com/_.celestial_abhi._/",
-    facebook: "https://www.facebook.com/profile.php?id=100010029821759",
-    github: "https://github.com/Abhiz2411/",
+    twitter: "https://x.com/Rajmihir33", // your Twitter/X link
+    linkedin: "https://www.linkedin.com/in/mihir-raj-chowdhury-02b339245/", // your LinkedIn link
+    github: "https://github.com/MihirRajChowdhury/", // your GitHub link
   },
 };
 export { config };
