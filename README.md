@@ -6,12 +6,12 @@
 Welcome to the repository for my personal portfolio website! 🎉
 This project is a culmination of creativity, technology, and my dedication to showcasing my skills, projects, and personality in a visually stunning and interactive manner.
 
-Live preview: https://mihirrajchowdhury.vercel.app/
+Live preview: https://portfolio-mihirrajchowdhurys-projects.vercel.app/
 
 This project is inspired by the amazing work of Naresh Khatri
 . His innovative approach to web design and attention to detail has been a huge influence. 🙏
 
-🔥 Features
+## 🔥 Features
 🎹 3D Interactive Animations
 
 Features a custom-made interactive 3D design built with Spline.
@@ -20,31 +20,31 @@ Each keycap represents a skill and reveals titles/descriptions on hover for an i
 
 Smooth, responsive 3D interactions that captivate visitors.
 
-✨ Slick Interactions & Animations
+## ✨ Slick Interactions & Animations
 
 Powered by GSAP and Framer Motion, delivering buttery-smooth animations on scroll, hover, and element reveals.
 
 Creative motion designs that enhance storytelling and keep users engaged.
 
-🌌 Unique Themed Design
+## 🌌 Unique Themed Design
 
 Floating particles and dynamic backgrounds give the portfolio a futuristic, interactive look.
 
 Visually appealing and immersive.
 
-📱 Responsive Design
+## 📱 Responsive Design
 
 Fully responsive across all devices.
 
 Optimized for both desktop and mobile.
 
-🧠 Innovative Web Design
+## 🧠 Innovative Web Design
 
 Combines cutting-edge technology with an intuitive user experience.
 
 Pushes the boundaries of modern web design with creative use of animations.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 The portfolio website is built using the following tools and technologies:
 
@@ -54,9 +54,10 @@ Animations: GSAP, Framer Motion, Spline Runtime
 
 Other Tools: Resend, Socket.io, Zod
 
-🌟 Getting Started
+## 🌟 Getting Started
 
 Clone this repository:
+
 
 git clone https://github.com/MihirRajChowdhury/Portfolio.git
 
@@ -89,10 +90,10 @@ Open your browser and navigate to:
 
 http://localhost:3000
 
-🚀 Deployment
+## 🚀 Deployment
 
 This project is deployed using Vercel for its blazing-fast performance and ease of use.
-You can view the live site here: https://mihirrajchowdhury.vercel.app/
+You can view the live site here:[ https://mihirrajchowdhury.vercel.app/](https://portfolio-mihirrajchowdhurys-projects.vercel.app/)
 
 Setting up Resend API on Vercel
 
@@ -113,7 +114,7 @@ Save the changes and redeploy your application
 
 ⚠️ Make sure to keep your API key secret and never commit it to your repository.
 
-📬 Contact
+@@ 📬 Contact
 
 Feel free to reach out to me for collaboration, feedback, or just to say hi! 😊
 
