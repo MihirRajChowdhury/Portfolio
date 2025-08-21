@@ -27,7 +27,7 @@ const config = {
   ],
   author: "Mihir Raj Chowdhury",
   email: "rajmihir945@gmail.com", // replace with your real email
-  site: "https://your-portfolio-link.com", // replace with your deployed portfolio link
+  site: "https://portfolio-mihirrajchowdhurys-projects.vercel.app/", // replace with your deployed portfolio link
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
