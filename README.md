@@ -8,8 +8,7 @@ This project is a culmination of creativity, technology, and my dedication to sh
 
 Live preview: https://portfolio-mihirrajchowdhurys-projects.vercel.app/
 
-This project is inspired by the amazing work of Naresh Khatri
-. His innovative approach to web design and attention to detail has been a huge influence. 🙏
+This project is inspired by the amazing work of Naresh Khatri. His innovative approach to web design and attention to detail has been a huge influence. 🙏
 
 ## 🔥 Features
 🎹 3D Interactive Animations
